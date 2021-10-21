@@ -1,0 +1,1 @@
+jQuery(window).on('load',function($){var $grid=jQuery('#masonry-loop').imagesLoaded(function(){$grid.masonry({itemSelector:'.masonry-post, .one-column, .two-column'});});});
